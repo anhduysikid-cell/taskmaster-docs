@@ -3,6 +3,7 @@
 Tài liệu hướng dẫn sử dụng ứng dụng TaskMaster
 
 
+
 # TaskMaster — Tài liệu hướng dẫn sử dụng
 
 
@@ -11,7 +12,7 @@ Chào mừng bạn đến với tài liệu hướng dẫn sử dụng \*\*TaskM
 
 
 
-\## Mục lục
+\##Mục lục
 
 
 
@@ -33,7 +34,7 @@ Chào mừng bạn đến với tài liệu hướng dẫn sử dụng \*\*TaskM
 
 
 
-\## Về dự án
+\##Về dự án
 
 
 
@@ -41,9 +42,11 @@ Bộ tài liệu này được xây dựng bởi nhóm \[Tên nhóm] trong khuô
 
 
 
-\## Đóng góp
+\##Đóng góp
 
 
 
 Xem \[CONTRIBUTING.md](CONTRIBUTING.md) để biết quy tắc đóng góp.
+
+Thêm link đến Release Notes trong mục lục
 
