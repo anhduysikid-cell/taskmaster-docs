@@ -50,3 +50,17 @@ Xem \[CONTRIBUTING.md](CONTRIBUTING.md) để biết quy tắc đóng góp.
 
 Thêm link đến Release Notes trong mục lục
 
+
+
+
+
+\## Giao diện chính
+
+
+
+!\[Giao diện chính TaskMaster](C:\\Users\\Admin\\Documents\\GitHub\\taskmaster-docs\\images)
+
+
+
+Sau khi đăng nhập, bạn sẽ thấy màn hình chính với Hình.
+
